@@ -3,3 +3,4 @@
 "Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered." - Guido van Rossum, 1996
 "You're either the one that creates the automation or you're getting automated." - Tom Preston-Werner, 2011
 "I hate almost all software. It's unnecessary and complicated at almost every layer." - Ryan Dahl, 2011
+"Always bet on JS." - Brendan Eich, 2011
