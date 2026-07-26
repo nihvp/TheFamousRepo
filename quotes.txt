@@ -8,3 +8,4 @@
 "I don't really care about languages, I just care about building things that people use." - Tj Holowaychuk, 2014
 "We are writing more and more JavaScript, and it's becoming the assembly language of the web." - Anders Hejlsberg, 2012
 "Write code every day." - John Resig, 2014
+"This talk would have been way better if he used Obsidian" - Theo Browne, 2026
