@@ -9,3 +9,4 @@
 "We are writing more and more JavaScript, and it's becoming the assembly language of the web." - Anders Hejlsberg, 2012
 "Write code every day." - John Resig, 2014
 "This talk would have been way better if he used Obsidian" - Theo Browne, 2026
+"I just sat there in the lab for ten hours doing these recursive algorithms, worried I wasn't going to make it. Now I realize anything your mind can think of, you can just build." - Michael Paulson, 2025
