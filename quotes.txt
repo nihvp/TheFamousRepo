@@ -6,3 +6,4 @@
 "Always bet on JS." - Brendan Eich, 2011
 "Good software is written by people who care about their work and value simplicity over unnecessary abstraction." - Salvatore Sanfilippo, 2014
 "I don't really care about languages, I just care about building things that people use." - Tj Holowaychuk, 2014
+"We are writing more and more JavaScript, and it's becoming the assembly language of the web." - Anders Hejlsberg, 2012
