@@ -10,3 +10,4 @@
 "Write code every day." - John Resig, 2014
 "This talk would have been way better if he used Obsidian" - Theo Browne, 2026
 "I just sat there in the lab for ten hours doing these recursive algorithms, worried I wasn't going to make it. Now I realize anything your mind can think of, you can just build." - Michael Paulson, 2025
+"We're entering an era where you don't have to rent your tools from big tech. It's yours and yours forever." - Felix Kjellberg, 2026
