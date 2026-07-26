@@ -1,3 +1,4 @@
 "Talk is cheap. Show me the code" - Linus Torvalds, 2000
 "just setting up my twttr" - Jack Dorsey, 2006
 "Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered." - Guido van Rossum, 1996
+"You're either the one that creates the automation or you're getting automated." - Tom Preston-Werner, 2011
