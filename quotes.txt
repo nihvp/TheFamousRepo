@@ -4,3 +4,4 @@
 "You're either the one that creates the automation or you're getting automated." - Tom Preston-Werner, 2011
 "I hate almost all software. It's unnecessary and complicated at almost every layer." - Ryan Dahl, 2011
 "Always bet on JS." - Brendan Eich, 2011
+"Good software is written by people who care about their work and value simplicity over unnecessary abstraction." - Salvatore Sanfilippo, 2014
