@@ -5,3 +5,4 @@
 "I hate almost all software. It's unnecessary and complicated at almost every layer." - Ryan Dahl, 2011
 "Always bet on JS." - Brendan Eich, 2011
 "Good software is written by people who care about their work and value simplicity over unnecessary abstraction." - Salvatore Sanfilippo, 2014
+"I don't really care about languages, I just care about building things that people use." - Tj Holowaychuk, 2014
